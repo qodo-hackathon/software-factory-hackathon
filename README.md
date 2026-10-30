@@ -1,3 +1,5 @@
+![Qodo Software Factory Hackathon banner with a purple title, black grid background, and skateboarding mascot](assets/readme-banner.png)
+
 # Software Factory Hackathon
 
 This repository provides participation guidance and submission templates for Qodo's Software Factory Hackathon, November 2–December 2, 2026.
